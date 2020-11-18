@@ -7,7 +7,9 @@ module.exports = {
     title: `Gatsby ENV variables`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
-    twitter: process.env.TWITTER,
+    //will fail if undefined
+    //twitter: process.env.TWITTER,
+    twitter: `mr potato head`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
