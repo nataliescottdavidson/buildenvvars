@@ -6,7 +6,7 @@ const IndexPage = () => (
   <Layout>
     <h2>
       🤓👽🤪🤓👽🤪
-      I'm hungry
+      I'm sooooooo hungry
       This site shows multiple ways of using ENV variables as shown in the{' '}
       <a href="https://www.gatsbyjs.org/docs/environment-variables">
         documentation
